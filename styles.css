@@ -1,0 +1,12 @@
+body{
+    background: rgb(55, 100, 196);
+}
+.container{
+    max-width: 700px;
+    margin: center;
+    padding: 700px;
+}
+#snack-btn{
+    padding-top: 12px;
+    
+}
